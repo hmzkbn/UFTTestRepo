@@ -1,0 +1,4 @@
+<RuntimeResourceManager>
+<RuntimeResource><Key>{Step.GeneralProperties.CallSTTest34.ScriptPath}</Key><Path>C:\workSpace\GIT_Repository\rus-testautomatisierung\Test_RVS\API Tests\DEV_SIB_WS</Path><Value>..\DEV_SIB_WS</Value><AddinId>DefaultDependencyResolver</AddinId></RuntimeResource>
+<RuntimeResource><Key>{Step.GeneralProperties.CallSTTest47.ScriptPath}</Key><Path>C:\workSpace\GIT_Repository\rus-testautomatisierung\Test_RVS\API Tests\MQ_Tests_for_VehicleChangeNotification</Path><Value>..\MQ_Tests_for_VehicleChangeNotification</Value><AddinId>DefaultDependencyResolver</AddinId></RuntimeResource>
+</RuntimeResourceManager>

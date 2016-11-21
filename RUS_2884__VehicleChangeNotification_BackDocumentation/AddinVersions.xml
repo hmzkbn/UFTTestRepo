@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AddinVersions>
+  <AddinVersion AddinId="HP.ST.STFRAMEWORKUPGRADERSADDIN" Version="12.53.2810.0" />
+  <AddinVersion AddinId="HP.ST.VTDBASICACTIVITY" Version="12.53.2810.0" />
+  <AddinVersion AddinId="HP.ST.TRANSFORMXSLTADDIN" Version="12.53.2810.0" />
+  <AddinVersion AddinId="HP.ST.STRUNNERADDIN" Version="12.53.2810.0" />
+</AddinVersions>
